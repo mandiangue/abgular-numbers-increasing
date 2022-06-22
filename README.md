@@ -1,5 +1,5 @@
 # Numbers
-Animation de nombres incréments avec Angular 14.0.2 nous avons interagis avec le DOM pour réaliser cette petite animation
+Animation de nombres incréments avec Angular 14.0.2 nous avons interagi avec le DOM pour réaliser cette petite animation
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.2.
 
