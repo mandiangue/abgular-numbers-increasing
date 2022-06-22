@@ -1,0 +1,39 @@
+/* You can add global styles to this file, and also import other style files */
+
+:root{
+    --clrbb1:5px solid rgba(224, 119, 119, 0.867);
+    --clrbb2: 5px solid rgba(147, 241, 167, 0.867);
+    --clrbb3: 5px solid rgba(224, 119, 184, 0.867);
+
+}
+.nombre{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 4rem;
+    font-weight: 800;
+    padding: 2rem;
+      margin: 0 auto;
+      
+    
+}
+section, article{
+    width:70%;
+    margin: 50px auto;
+    text-align: center;
+    
+}
+article:first-child{
+    font-size: 2rem;
+    border-bottom: var(--clrbb1);
+    padding: 2rem;
+}
+article:nth-child(2){
+    font-size: 2rem;
+    border-bottom: var(--clrbb2);
+    padding: 2rem;
+}
+
+article:nth-child(3){
+    font-size: 2rem;
+    border-bottom: var(--clrbb3);
+    padding: 2rem;
+}
